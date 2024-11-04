@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+/.vscode
+
+*.dSYM/Contents
+*.plist
+
 # Compiled Object files
 *.slo
 *.lo
