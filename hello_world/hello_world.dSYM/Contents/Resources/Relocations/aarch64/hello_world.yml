@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/jonatanaguilar/Desktop/Learn_C_pp/hello_world/hello_world'
-relocations:     []
-...
