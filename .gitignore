@@ -3,7 +3,7 @@
 
 /.vscode
 
-*.dSYM*
+*.dSYM
 *.plist
 
 # Compiled Object files
