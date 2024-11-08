@@ -6,8 +6,10 @@ using namespace std;
 
 int main()
 {
-    string a = "";
-    string b = "";
+    string a;
+    string b;
+    int n1;
+    int n2;
     bool trigger = false;
 
     string input;
@@ -29,12 +31,13 @@ int main()
         }
         else if (trigger)
         {
-            b + val;
+            b += val;
         }
     }
 
-    int n1 = stoi(a);
-    int n2 = stoi(b);
+    n1 = stoi(a);
+
+    n2 = stoi(b);
 
     cout << n1 + n2;
 }
