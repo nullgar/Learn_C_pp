@@ -9,5 +9,4 @@ int main()
     cin >> n;
 
     stoi(n) % 2 == 1 ? cout << "Alice" : cout << "Bob";
-
 }
