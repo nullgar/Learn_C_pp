@@ -16,3 +16,6 @@ int main() {
         i <= l ? cout << "DA" << endl : cout << "NE" << endl;
     }
 }
+
+
+// c = sqrt(a^2+b^2)
